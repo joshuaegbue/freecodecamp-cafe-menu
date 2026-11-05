@@ -12,3 +12,7 @@ A simple cafe menu webpage built as part of the freeCodeCamp Responsive Web Desi
 - Structuring a webpage with HTML
 - Styling elements with CSS
 - Working with typography, colours, and spacing
+
+## Live Demo
+
+[View the live website](https://joshuaegbue.github.io/freecodecamp-cafe-menu/)
